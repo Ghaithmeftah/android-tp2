@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TP2_ghaith_mefteh</string>
+    <string name="mantant">Donner un montant</string>
+    <string name="dt_euro">Dinar tunisien --> Euro</string>
+    <string name="euro_dt">Euro --> Dinar tunisien</string>
+    <string name="res">Résultat de conversion</string>
+</resources>
