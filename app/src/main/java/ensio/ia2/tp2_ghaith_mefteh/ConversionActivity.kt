@@ -14,7 +14,7 @@ class ConversionActivity : AppCompatActivity() {
 
         val nb = intent.getFloatExtra("mantant",0.0f)
         val sens = intent.getStringExtra("sens")
-        binding.textView.text="$nb"
+        binding.textView.text= nb.toString()
         binding.textView3.text= sens
         binding.button3.setOnClickListener {
             if (sens == "dt_Euro"){

@@ -4,4 +4,15 @@
     <string name="dt_euro">Dinar tunisien --> Euro</string>
     <string name="euro_dt">Euro --> Dinar tunisien</string>
     <string name="res">Résultat de conversion</string>
+
+    <string name="Conv">Conversion de température</string>
+    <string name="put">Donner un réel</string>
+    <string name="arr">Arrondir</string>
+    <string name="c_f">Celsius -> Fahrenheit</string>
+    <string name="f_c">Fahrenheit -> Celsius</string>
+    <string name="resultat">Resuktat</string>
+    <string name="value">...</string>
+
+    <string name="conv_mantant">Conversion de monnais</string>
+    <string name="conv_temp">Conversion des températures</string>
 </resources>
